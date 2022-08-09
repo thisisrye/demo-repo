@@ -1,3 +1,3 @@
 # Sample
 
-this is a Sample document.
+this is a Sample document!
